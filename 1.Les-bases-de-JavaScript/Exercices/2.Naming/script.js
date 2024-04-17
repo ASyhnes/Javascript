@@ -6,13 +6,13 @@
 
 */
 
-    // LET UsErNaMe = "John";     
-    // const _id = 99;
-    // let class = true;
-    // const isAdult = true;
-    // const $card = {name: "card", content: "Lorem ipsum"};
-    // let 1452 = 1452;
-    // const sum41 = "music";
+    // LET UsErNaMe = "John";   //faux 
+    // const _id = 99; //correct
+    // let class = true; //faux
+    // const isAdult = true; //correct
+    // const $card = {name: "card", content: "Lorem ipsum"}; //correct
+    // let 1452 = 1452; //faux
+    // const sum41 = "music"; //correct
 
 
 
@@ -27,6 +27,16 @@
     D. Une let contenant des informations sur la météo du jour.
     E. Une let qui contient la hauteur d'une page web.
     F. Une const qui contient un message d'alerte.
+*/
+
+let onlinePlayer = true;
+let ruleModerateur = true;
+const salaires = [];
+let daillyMeteo = {};
+let withWebPage = 0;
+const warningMsg = ("alerte");
+
+/*
 
     Même chose pour des fonctions.
 
@@ -35,6 +45,10 @@
     I. Une fonction qui crée un bouton
     J. Une fonction qui ajoute une animation 
 */
+
+
+
+/*
 
 //A.
 // = true;
@@ -55,11 +69,11 @@
 // F
 // = "Vous ne pouvez pas faire ça"
 // G
-/* function xxx(){}*/
+/* function getUserInfo(){}*/
 // H
-/* function xxx(){}*/
+/* function isAdult(){}*/
 // I
-/* function xxx(){}*/
+/* function creatButon(){}*/
 // J
-/* function xxx(){}*/
+/* function addAnimation(){}*/
 
